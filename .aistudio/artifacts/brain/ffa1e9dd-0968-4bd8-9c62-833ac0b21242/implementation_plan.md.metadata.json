@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for the Japan Regional Tourism website using the Kage landing-page template, including the Step 0 pre-check protocol for kage.html and binary assets, official source discrepancy report (JNTO vs. Web Japan vs. MLIT), proposed Kage style parameters, verified regional temple highlights with Source Log, and Next.js iframe host architecture.",
+  "updatedAt":  "2026-10-27T07:57:36.044217907Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

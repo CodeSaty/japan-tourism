@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Instrument+Serif:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,300..700;1,6..72,300..700&family=Noto+Sans+JP:wght@300;400;500&family=Onest:wght@300;400;500;600;700&family=Syne:wght@600;700&display=swap');
+
+@font-face {
+  font-family: 'NotoJP';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Noto Sans JP'), local('Hiragino Kaku Gothic ProN'), local('Yu Gothic');
+}
+
+@font-face {
+  font-family: 'Wordmark';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: local('Onest SemiBold'), local('Onest'), local('Syne');
+}

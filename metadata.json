@@ -1,0 +1,6 @@
+{
+  "name": "Japan — Sacred Pathways & Regional Heritage Guide",
+  "description": "An interactive journey across Japan's regional temple and shrine heritage across 8 regions and 47 prefectures, with live AI Travel Concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
